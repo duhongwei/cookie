@@ -1,3 +1,4 @@
+//author : duhongwei
 
 function parseExpire(expire) {
   var key = expire.substring(expire.length - 1, expire.length)
