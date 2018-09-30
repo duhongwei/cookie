@@ -1,5 +1,5 @@
 # cookie
-get ,set ,del ,cookie
+cookie.js is a small client-side javascript library that makes managing cookies easy.
 
 ## Example Usage ##
 
