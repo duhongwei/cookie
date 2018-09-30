@@ -37,7 +37,7 @@ Sets a cookie in the document. If the cookie does not already exist, it will be 
 |  *domain* | A string value of the domain of the cookie                                                       | `undefined` |
 | *expires* | A number (of seconds), a date parsable string, or a `Date` object of when the cookie will expire | `undefined` |
 |  *secure* | A boolean value of whether or not the cookie should only be available over SSL                   | `false`     |
-|  *expires* | A string or number value of expires of the cookie. like 100,1d,1m,0.5y. 0 enable session cookie | `1m`        |    
+|  *expires* | A string or number value of expires of the cookie. like 100,1d,1m,0.5y. 0 enable session cookie | `"1m"`        |    
 
 ## Browser Compatibility ##
 ie6+
